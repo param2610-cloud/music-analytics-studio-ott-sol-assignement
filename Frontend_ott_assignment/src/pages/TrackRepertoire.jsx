@@ -8,6 +8,7 @@ const TrackRepertoire = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [columns, setColumns] = useState([]);
+  const [imageError, setImageError] = useState(false);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -50,7 +51,19 @@ const TrackRepertoire = () => {
             <p className="text-xs uppercase tracking-[0.3em] text-cyan-200">PNG Chart</p>
             <h2 className="text-2xl font-semibold">Top Tracks by Streams</h2>
           </div>
-          <img src="/images/top_50_tracks.png" alt="Top tracks" className="w-full" loading="lazy" />
+          {imageError ? (
+            <div className="flex h-64 items-center justify-center bg-white/5 text-slate-400">
+              <p className="text-sm">Chart image not available</p>
+            </div>
+          ) : (
+            <img
+              src="/images/top_50_tracks.png"
+              alt="Top tracks"
+              className="w-full"
+              loading="lazy"
+              onError={() => setImageError(true)}
+            />
+          )}
         </motion.div>
 
         <motion.div
