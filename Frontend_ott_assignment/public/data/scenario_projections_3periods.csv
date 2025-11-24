@@ -1,0 +1,13 @@
+scenario,period,projected_revenue,cumulative_growth_%
+Conservative (1% monthly growth),1,29997.7871492974,1.0000000000000009
+Conservative (1% monthly growth),2,30297.765020790375,2.0100000000000007
+Conservative (1% monthly growth),3,30600.74267099828,3.0301000000000133
+Base Case (2% monthly growth),1,30294.7949428548,2.0000000000000018
+Base Case (2% monthly growth),2,30900.690841711898,4.039999999999999
+Base Case (2% monthly growth),3,31518.704658546136,6.120800000000015
+Optimistic (3% monthly growth),1,30591.8027364122,3.0000000000000027
+Optimistic (3% monthly growth),2,31509.556818504567,6.089999999999995
+Optimistic (3% monthly growth),3,32454.843523059706,9.2727
+High Growth (5% monthly growth),1,31185.818323527,5.000000000000004
+High Growth (5% monthly growth),2,32745.109239703354,10.250000000000004
+High Growth (5% monthly growth),3,34382.36470168852,15.762500000000014

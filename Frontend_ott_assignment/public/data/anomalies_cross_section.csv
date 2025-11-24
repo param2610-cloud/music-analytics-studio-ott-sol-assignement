@@ -1,0 +1,48 @@
+source,activity_period,year_month,store_name,country,artist,album,track,revenue,stream_count,unit_type,project_code,revenue_per_stream,is_rev_outlier,is_rps_outlier,is_streams_outlier
+jiosaavn,,,JioSaavn,India,Indradeep Dasgupta,Jani Dekha Howbe,Jani Dekha Howbe Male,94.05,1254.0,,INT441631302,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,Rupam Islam,Daniken,Daniken,352.575,4701.0,,INT441779201,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,Rabindranath Tagore,Elar Char Addhay,Majhe Majhe Tobo Dekha Pai,88.2,1176.0,,INT441625904,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,Pratik Sen,Kach-Chu Bibi And Twing,Prithibita Naki Choto Hotey Hotey,505.125,6735.0,,INT441663301,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,Indradeep Dasgupta,Jani Dekha Howbe,Jani Dekha Howbe Female,180.0,2400.0,,INT441631301,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,S.P. Venkatesh,Bazimaat,Chena Chena A Poth,76.05,1014.0,,INT441617006,0.075,True,False,False
+jiosaavn,,,JioSaavn,India,S.P. Venkatesh,Bazimaat,Meghla Dine Meghla Mon,270.6,3608.0,,INT441617009,0.07500000000000001,True,False,True
+jiosaavn,,,JioSaavn,India,Sreeradha Bandyopadhyay,Hridoyer Kotha,Jokhon Porbe Na Mor,138.75,1850.0,,INT441630106,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,Banasri Ghoshal,Chashme Baddoor,Dil Jane Na,396.525,5287.0,,INT441620503,0.075,True,False,True
+jiosaavn,,,JioSaavn,India,S.P. Venkatesh,Bazimaat,Amar Prothom Prem,83.475,1113.0,,INT441617004,0.075,True,False,False
+jiosaavn,,,JioSaavn,India,Rabindranath Tagore,Elar Char Addhay,Ay Tobe Sohochori,207.825,2771.0,,INT441625901,0.075,True,False,True
+wynk,,,Wynk Music,India,Kartick,Bazimaat,Amar Prothom Prem,78.31495459,1394.0,,int441617004,0.05618002481348637,True,False,True
+wynk,,,Wynk Music,India,Shreemoyee Bhatterjee,Saraswati Puja Special,Saraswati Bandana 1,111.6297093,1987.0,,int441646601,0.05618002481127328,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Jonom Rini,143.5399634,2555.0,,int441803954,0.05618002481409002,True,False,True
+wynk,,,Wynk Music,India,Ikrar,Mon Sudhu Toke Chai,Bolbo Toke Ki Kore,178.4839388,3177.0,,int441780503,0.05618002480327353,True,False,True
+wynk,,,Wynk Music,India,Neepabithi,Tagore On The Highway,Purano Sei,90.3374799,1608.0,,int441651209,0.05618002481343284,True,False,True
+wynk,,,Wynk Music,India,Shreya Ghoshal,Abelay,Rimjhim,67.64074988,1204.0,,int441901629,0.05618002481727575,False,False,True
+wynk,,,Wynk Music,India,Sree Pritam,Mon Sudhu Toke Chai,Keno Kache Eli,154.2141681,2745.0,,int441780504,0.056180024808743165,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Pakhi,409.5523809,7290.0,,int441803957,0.056180024814814815,True,False,True
+wynk,,,Wynk Music,India,Anupam Roy,Projapoti Biskut,Ahare Mon,198.4840277,3533.0,,int441794003,0.056180024823096524,True,False,True
+wynk,,,Wynk Music,India,Kaushik Chakraborty,Baishab Jan To,Krishna Bhajan,978.9369324,17425.0,,int441664903,0.05618002481492109,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Jaan Re Tui,7509.752457,133673.0,,int441803952,0.056180024814285606,True,False,True
+wynk,,,Wynk Music,India,Prasen Mukherjee,Projapoti Biskut,Tomake Bujhi Na Priyo Male Version,154.1579881,2744.0,,int441794002,0.05618002481778426,True,False,True
+wynk,,,Wynk Music,India,Shusmita Anis,Romzaner Oi Rozar Sheshe - Single,Romzaner Oi Rozar Sheshe,80.22507544,1428.0,,int441900297,0.05618002481792717,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Bondhua Sujon,79.15765496,1409.0,,int441803950,0.05618002481192335,True,False,True
+wynk,,,Wynk Music,India,Nan,Spectrum,Arabic,117.0791717,2084.0,,int441648901,0.056180024808061425,True,False,True
+wynk,,,Wynk Music,India,Sadhana Sargam Javed Ali,Tomaye Bhalobashi,Tomay Bhalobasi,205.1132706,3651.0,,int441652705,0.05618002481511914,True,False,True
+wynk,,,Wynk Music,India,Sriradha Bandyopadhay,Hridoyer Kotha,Tomar Khola Hawoaye,77.41607419,1378.0,,int441630110,0.056180024811320756,True,False,True
+wynk,,,Wynk Music,India,Alka Yagnik Kartick,Bazimaat,Meghla Dine Meghla Mon,103.5397857,1843.0,,int441617009,0.0561800247965274,True,False,True
+wynk,,,Wynk Music,India,Baju,Mohiner Ghora Guli,Tomay Dilam,84.10149715,1497.0,,int441801717,0.056180024816299266,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Diwana,72.02279181,1282.0,,int441803951,0.056180024812792516,False,False,True
+wynk,,,Wynk Music,India,Alka Yagnik Kartick,Bazimaat,Chena Chena A Poth,101.4611248,1806.0,,int441617006,0.056180024806201545,True,False,True
+wynk,,,Wynk Music,India,Iman Chakraborty,Hiyar Majhe,Aamar Hiyar Majhe,156.9669893,2794.0,,int441602303,0.056180024803149604,True,False,True
+wynk,,,Wynk Music,India,Palash Das,Chalte Chalte,Nile Nile Ambar Par,319.7205212,5691.0,,int441804381,0.056180024811105254,True,False,True
+wynk,,,Wynk Music,India,Arijit Singh,Hoyto Tomari Jonno,Hoyto Tomari Jonno,736.7448454,13114.0,,int441901518,0.05618002481317676,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Bhalobasha Tui,298.5968319,5315.0,,int441804011,0.056180024816556914,True,False,True
+wynk,,,Wynk Music,India,Shreya Ghoshal,Jani Dekha Howbe,Jani Dekha Howbe Female,466.8560062,8310.0,,int441631301,0.05618002481347774,True,False,True
+wynk,,,Wynk Music,India,Shampa Haque,Gausul Azam Maijbhandaari,Allahu Allah Rohom Koro,305.2822548,5434.0,,int442000718,0.05618002480677217,True,False,True
+wynk,,,Wynk Music,India,Iman Chakraborty,Hiyar Majhe,Bhalobese Sokhee,88.37117903,1573.0,,int441602306,0.05618002481246026,True,False,True
+wynk,,,Wynk Music,India,Chandrani Banerjee,Projapoti Biskut,Tomake Bujhi Na Priyo Female Version,206.4054112,3674.0,,int441794001,0.05618002482308111,True,False,True
+wynk,,,Wynk Music,India,Sayak Bandyopadhay,Elar Char Addhay,Majhe Majhe Tobo Dekha Pai,78.14641452,1391.0,,int441625904,0.05618002481667864,True,False,True
+wynk,,,Wynk Music,India,Pratik Sen,Kach-Chu Bibi And Twing,Prithibita Naki Choto Hotey Hotey,110.899369,1974.0,,int441663301,0.05618002482269503,True,False,True
+wynk,,,Wynk Music,India,F A Sumon,Jaan Re Tui,Janere Khuda Jane,673.8793977,11995.0,,int441803953,0.05618002481867445,True,False,True
+wynk,,,Wynk Music,India,Riyad,Osrujol,Ektu Ektu Kore,164.4951127,2928.0,,int441804210,0.05618002482923497,True,False,True
+wynk,,,Wynk Music,India,Disha Ghorai,Ektarati Hate Dhore,Baul Gaan Sunbi Jodi,85.67453784,1525.0,,int441605303,0.05618002481311475,True,False,True
+wynk,,,Wynk Music,India,Anupam Roy,Jani Dekha Howbe,Jani Dekha Howbe Male,137.9781409,2456.0,,int441631302,0.05618002479641694,True,False,True
+wynk,,,Wynk Music,India,Sujon Biswas,Bhebe Chhilam Aapan Jare,Sukh Pakhi Re Aamar,86.01161799,1531.0,,int441617748,0.056180024813847165,True,False,True
