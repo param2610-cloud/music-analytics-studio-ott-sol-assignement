@@ -1,0 +1,34 @@
+================================================================================
+MUSIC ROYALTY ANALYSIS - EXECUTIVE SUMMARY
+================================================================================
+
+ANOMALY DETECTION RESULTS
+--------------------------------------------------------------------------------
+Flagged 47 suspicious records by cross-sectional rules:
+  - Extremely high revenue (top 0.5%)
+  - Extremely high streams (top 0.5%)
+  - Extremely high revenue-per-stream ratio (top 0.5%)
+
+See detailed report: anomalies_sample_for_report.csv
+
+KEY FINDINGS
+--------------------------------------------------------------------------------
+1. Top Artist: F A Sumon (₹9,318.86)
+2. Total Revenue: ₹29,700.78
+3. Unique Artists: 20
+4. Unique Tracks: 50
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. Data Quality: Audit flagged anomaly rows for ingestion duplicates or reporting errors.
+2. Revenue Focus: Prioritize artists/albums with concentrated revenue for marketing efforts.
+3. Attribution: If caller-tune or promo info is missing, request those fields for better analysis.
+4. Platform Strategy: Analyze platform-specific pricing and monetization strategies.
+5. Artist Development: Consider development programs for emerging talent.
+6. Catalog Management: Optimize catalog management for long-tail monetization.
+7. Cross-Platform: Encourage multi-platform distribution for better revenue diversification.
+8. Fraud Prevention: Implement automated fraud detection based on IsolationForest findings.
+
+================================================================================
+Report generated on: 2025-11-21 20:25:56
+================================================================================
